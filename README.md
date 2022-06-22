@@ -1,5 +1,5 @@
 # CSS Exercise <br>
-This is the CSS exercise from [The Odin Project](https://www.theodinproject.com/)<br>
+This is the CSS exercises from [The Odin Project](https://www.theodinproject.com/)<br>
 ## Built with
 #### Technologies <br>
 - HTML <br>
