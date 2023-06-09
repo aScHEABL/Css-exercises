@@ -1,4 +1,5 @@
-body, html {
+body,
+html {
   height: 100%;
   margin: 0;
 }
@@ -29,23 +30,23 @@ body, html {
 }
 
 .header {
-  background-color: #FFDE22;
-  grid-area: header;
+  background-color: #008578
 }
 
 .sidebar {
-  background-color: #FF7755;
-  grid-area: sidebar;
+  background-color: #007bc5
 }
 
 .nav {
-  background-color: #00DDFF;
-  grid-area: nav;
+  background-color: #642cde
 }
 
 .article {
-  background-color: #bccbde;
-  grid-area: article;
+  background-color: #9126de
+}
+
+.footer {
+  background-color: #393f4d;
 }
 
 .article p {
@@ -53,9 +54,4 @@ body, html {
   font-family: sans-serif;
   color: white;
   text-align: left;
-}
-
-.footer {
-  background-color: #393f4d;
-  grid-area: footer;
 }
